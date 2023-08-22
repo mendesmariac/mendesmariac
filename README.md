@@ -6,7 +6,7 @@
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesmariac&theme=transparent&show_icons=true)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,java,py)](https://skillicons.dev)
 
 ### Learning Now
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
