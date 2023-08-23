@@ -12,10 +12,10 @@
 
    
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,java,)](https://skillicons.dev)
 
 ### Learning Now
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,py)](https://skillicons.dev)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/marrferra_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-mendes-576453268/) 
