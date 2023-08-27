@@ -21,5 +21,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/marrferra_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-mendes-576453268/) 
 
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmariac&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
