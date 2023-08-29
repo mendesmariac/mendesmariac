@@ -18,6 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,py)](https://skillicons.dev)
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-mendes-576453268/) 
+<div  align="left"> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmariac&layout=compact&hide_border=true&theme=transparent" />
+</div>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-mendes-576453268/) 
 
 
